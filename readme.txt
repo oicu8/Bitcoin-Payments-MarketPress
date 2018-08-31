@@ -2,8 +2,8 @@
 Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl MarketPress - Bitcoin Altcoin Payment Gateway Addon
 Plugin URI: https://gourl.io/bitcoin-payments-wpmudev-marketpress.html
-Author URI: https://gourl.io 
-Tags: marketpress, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, ecommerce, paypal, accept bitcoin, shop, payment, payment gateway, litecoin, dogecoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
+Author URI: https://gourl.io
+Tags: marketpress, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, ecommerce, paypal, accept bitcoin, shop, payment, payment gateway, litecoin, dogecoin, Neutron, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.2
@@ -26,7 +26,7 @@ Wordpress Plugin for MarketPress Features -
 * No Monthly Fee, Transaction Fee from 0%
 * Product Prices in USD/EUR/GBP/etc. Google/Bitstamp/Poloniex Live Exchange Rates
 * Direct Integration on your website, no external payment pages opens (as other payment gateways offer)
-* You will see the bitcoin/altcoin payment statistics in one common table on your website. 
+* You will see the bitcoin/altcoin payment statistics in one common table on your website.
 * No Chargebacks, Global, Secure. All in automatic mode.
 * [Free Tech Support](https://gourl.io/view/contact/Contact_Us.html) for You
 
@@ -68,8 +68,8 @@ In the search field type "GoUrl MarketPress" and click Search Plugins. Once you'
 
 = IMPORTANT - Optional support HTML in Transaction Notes =
 
-Marketpress doesn't support html in notes by default, and you need to add support - 
-Open file wordpress-ecommerce/marketpress.php, find text below (line 5324) and remove "esc_html" 
+Marketpress doesn't support html in notes by default, and you need to add support -
+Open file wordpress-ecommerce/marketpress.php, find text below (line 5324) and remove "esc_html"
 
 Read here:  https://gourl.io/bitcoin-payments-wpmudev-marketpress.html#notes
 
@@ -99,6 +99,4 @@ Read here:  https://gourl.io/bitcoin-payments-wpmudev-marketpress.html#notes
 * Add Spanish Payment Box translation
 
 = 1.0.0 =
-Initial Release 
-  
- 
+Initial Release
